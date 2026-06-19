@@ -120,11 +120,9 @@ Kemudian dihitung nilai integral menggunakan metode Trapesium.
 
 Nilai Romberg dihitung dengan rumus:
 
-[
-R(i,j)=R(i,j-1)+
-\frac{R(i,j-1)-R(i-1,j-1)}
-{4^j-1}
-]
+
+   $$R(i,j)=R(i,j-1)+\frac{R(i,j-1)-R(i-1,j-1)}{4^j-1}$$
+
 
 Pada program:
 
