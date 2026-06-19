@@ -70,16 +70,13 @@ Fungsi ini mengimplementasikan **Metode Trapesium Komposit**.
 
 Rumus yang digunakan:
 
-[
-I \approx \frac{h}{2}
-\left[f(a)+2\sum f(x_i)+f(b)\right]
-]
+    I \approx \frac{h}{2}\left[f(a)+2\sum f(x_i)+f(b)\right]
 
 dengan:
 
-[
-h=\frac{b-a}{n}
-]
+
+    h=\frac{b-a}{n}
+
 
 Langkah perhitungan:
 
